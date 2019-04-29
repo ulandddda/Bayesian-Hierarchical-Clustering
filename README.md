@@ -12,7 +12,7 @@ git clone https://github.com/ulandddda/Bayesian-Hierarchical-Clustering.git
 2. Go to the local repo, type
 
 ```sh
-python3 setup.py install build_ext -i
+python setup.py install build_ext -i
 ```
 
 
